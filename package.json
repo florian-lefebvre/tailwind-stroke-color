@@ -1,0 +1,10 @@
+{
+    "name": "tailwind-stroke-color",
+    "version": "0.1.0",
+    "description": "Tailwind plugin to create stroke color classes",
+    "main": "index.js",
+    "repository": "https://github.com/florian-lefebvre/tailwind-stroke-color",
+    "author": "Florian LEFEBVRE",
+    "license": "MIT",
+    "private": false
+  }
