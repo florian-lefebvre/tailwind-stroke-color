@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/tailwind-stroke-color.svg?style=flat-square)](https://www.npmjs.com/package/tailwind-stroke-color)
 [![npm](https://img.shields.io/npm/dt/tailwind-stroke-color.svg?style=flat-square)](https://www.npmjs.com/package/tailwind-stroke-color)
 
-This plugin generates classes for coloring carets using `srtoke: #;`.
+This plugin generates classes for coloring strokes using `stroke: #;`.
 
 ## Installation
 
